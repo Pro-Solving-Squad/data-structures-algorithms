@@ -14,3 +14,4 @@ Data structures and Algorithms repo containing notes for each topic covered duri
 
 ### HackerEarth
 1. [Equal Strings](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/equal-strings-79789662-4dbd707c/)
+2. [Employee Rating](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/employee-rating-8cd8dc10/)
