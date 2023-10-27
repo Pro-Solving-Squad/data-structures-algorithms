@@ -17,3 +17,4 @@ Data structures and Algorithms repo containing notes for each topic covered duri
 2. - [x] [Employee Rating](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/employee-rating-8cd8dc10/) 
 3. - [Maximum Border](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/maximum-border-9767e14c/)
 4. - [Rook attack](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/rook-attack-b899b655/)
+5. - [Killjee And Linked List](https://www.hackerearth.com/problem/algorithm/2-21/?utm_source=header&utm_medium=search&utm_campaign=he-search)
