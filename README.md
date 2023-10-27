@@ -13,5 +13,7 @@ Data structures and Algorithms repo containing notes for each topic covered duri
 ## Problems List
 
 ### HackerEarth
-1. [Equal Strings](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/equal-strings-79789662-4dbd707c/)
-2. [Employee Rating](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/employee-rating-8cd8dc10/)
+1. - [Equal Strings](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/equal-strings-79789662-4dbd707c/)
+2. - [x] [Employee Rating](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/employee-rating-8cd8dc10/) 
+3. - [Maximum Border](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/maximum-border-9767e14c/)
+4. - [Rook attack](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/rook-attack-b899b655/)
