@@ -24,5 +24,5 @@ Data structures and Algorithms repo containing notes for each topic covered duri
 2. - [x] [FIXME: Hello](https://www.codewars.com/kata/5b0a80ce84a30f4762000069/train/javascript)
 3. - [Debug Basic Calculator](https://www.codewars.com/kata/56368f37d464c0a43c00007f/train/javascript)
 4. - [The Misadventures of Bob the Highly Paid Consultant](https://www.codewars.com/kata/587593285448632b8d000143/train/javascript)
-   - [Inserting multiple strings into another string](https://www.codewars.com/kata/52f3eeb274c7e693a600288e/train/javascript)
-   - [Breaking search bad](https://www.codewars.com/kata/52cd53948d673a6e66000576/train/javascript)
+5. - [Inserting multiple strings into another string](https://www.codewars.com/kata/52f3eeb274c7e693a600288e/train/javascript)
+6. - [Breaking search bad](https://www.codewars.com/kata/52cd53948d673a6e66000576/train/javascript)
