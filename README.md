@@ -20,7 +20,9 @@ Data structures and Algorithms repo containing notes for each topic covered duri
 5. - [Killjee And Linked List](https://www.hackerearth.com/problem/algorithm/2-21/?utm_source=header&utm_medium=search&utm_campaign=he-search)
 6. - [x] [Find Mex](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/find-mex-62916c25/)
 
-### Leetcode
+### Strings
+
+#### LeetCode
 1. - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 ### CodeWars debug problems
