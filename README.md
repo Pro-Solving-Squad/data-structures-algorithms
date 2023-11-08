@@ -25,6 +25,12 @@ Data structures and Algorithms repo containing notes for each topic covered duri
 1. - [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 ---
+## Sorting Problems
+#### HackerRank
+1. - [ ] [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem)
+
+---
+
 ## Debugging Problems
 #### Codewars
 1. - [x] [Get Planet Name By ID](https://www.codewars.com/kata/515e188a311df01cba000003/train/javascript)
