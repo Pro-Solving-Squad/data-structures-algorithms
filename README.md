@@ -22,12 +22,12 @@ Data structures and Algorithms repo containing notes for each topic covered duri
 ---
 ## String Problems
 #### LeetCode
-1. - [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+1. - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - [09-11-2023]
 
 ---
 ## Sorting Problems
 #### HackerRank
-1. - [ ] [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem)
+1. - [X] [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem) - [09-11-2023]
 
 ---
 
