@@ -33,6 +33,7 @@ Data structures and Algorithms repo containing notes for each topic covered duri
 ## Searching Problems
 #### Coderbyte
 1. - [ ] [Bracket Matcher](https://coderbyte.com/editor/Bracket%20Matcher:JavaScript)
+2. - [ ] [Min Window Substring](https://coderbyte.com/editor/Min%20Window%20Substring:JavaScript)
   
 ---
 ## Dynamic Programming
