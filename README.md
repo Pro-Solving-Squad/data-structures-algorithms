@@ -30,6 +30,11 @@ Data structures and Algorithms repo containing notes for each topic covered duri
 1. - [X] [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem) - [09-11-2023]
 
 ---
+## Searching Problems
+#### Coderbyte
+1. - [ ] [Bracket Matcher](https://coderbyte.com/editor/Bracket%20Matcher:JavaScript)
+  
+---
 ## Dynamic Programming
 #### LeetCode
 1. - [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
