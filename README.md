@@ -36,6 +36,11 @@ Data structures and Algorithms repo containing notes for each topic covered duri
 2. - [ ] [Min Window Substring](https://coderbyte.com/editor/Min%20Window%20Substring:JavaScript)
   
 ---
+## Binary Tree Problems
+#### Coderbyte
+1. - [ ] [Tree Constructor](https://coderbyte.com/editor/Tree%20Constructor:JavaScript)
+  
+---
 ## Dynamic Programming
 #### LeetCode
 1. - [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
