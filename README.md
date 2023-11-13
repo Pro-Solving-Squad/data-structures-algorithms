@@ -36,3 +36,6 @@ Data structures and Algorithms repo containing notes for each topic covered duri
 #### LeetCode
 1. - [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
 
+## Combinations And Permutations Problems
+#### LeetCode
+1. - [ ] [Letter combinations](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
