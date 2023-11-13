@@ -10,6 +10,10 @@ Data structures and Algorithms repo containing notes for each topic covered duri
 6. Array Methods
 7. Loops
 
+## Implementation
+### HackerRank
+1. - [ ][Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses/problem?isFullScreen=true)
+
 ## String Problems
 #### LeetCode
 1. - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - [09-11-2023]
