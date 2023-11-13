@@ -12,7 +12,7 @@ Data structures and Algorithms repo containing notes for each topic covered duri
 
 ## Implementation
 ### HackerRank
-1. - [ ][Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses/problem?isFullScreen=true)
+1. - [ ] [Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses/problem?isFullScreen=true)
 
 ## String Problems
 #### LeetCode
