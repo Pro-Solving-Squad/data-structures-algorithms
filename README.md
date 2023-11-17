@@ -42,4 +42,4 @@ Data structures and Algorithms repo containing notes for each topic covered duri
 
 ## Combinations And Permutations Problems
 #### LeetCode
-1. - [ ] [Letter combinations](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+1. - [x] [Letter combinations](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) - [16-11-2023]
