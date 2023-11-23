@@ -21,6 +21,8 @@ Data structures and Algorithms repo containing notes for each topic covered duri
 ## Sorting Problems
 #### HackerRank
 1. - [X] [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem) - [09-11-2023]
+#### Leetcode Problems
+2. - [ ] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 
 ## Searching Problems
 #### Coderbyte
