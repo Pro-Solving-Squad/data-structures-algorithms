@@ -26,8 +26,8 @@ Data structures and Algorithms repo containing notes for each topic covered duri
 
 ## Searching Problems
 #### Coderbyte
-1. - [ ] [Bracket Matcher](https://coderbyte.com/editor/Bracket%20Matcher:JavaScript)
-2. - [ ] [Min Window Substring](https://coderbyte.com/editor/Min%20Window%20Substring:JavaScript)
+1. - [X] [Bracket Matcher](https://coderbyte.com/editor/Bracket%20Matcher:JavaScript) - [30-11-2023]
+2. - [X] [Min Window Substring](https://coderbyte.com/editor/Min%20Window%20Substring:JavaScript) - [30-11-2023]
 
 #### HackerEarth
 1. - [x] [Employee Rating](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/employee-rating-8cd8dc10/) - [30-10-2023]
