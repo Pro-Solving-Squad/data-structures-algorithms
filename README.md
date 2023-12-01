@@ -13,6 +13,7 @@ Data structures and Algorithms repo containing notes for each topic covered duri
 ## Implementation
 ### HackerRank
 1. - [X] [Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses/problem?isFullScreen=true) - [23-11-2023]
+2. - [ ] [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)
 
 ## String Problems
 #### LeetCode
