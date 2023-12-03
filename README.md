@@ -34,6 +34,9 @@ Data structures and Algorithms repo containing notes for each topic covered duri
 1. - [x] [Employee Rating](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/employee-rating-8cd8dc10/) - [30-10-2023]
 1. - [x] [Maximum Border](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/maximum-border-9767e14c/) - [31-10-2023]
 3. - [x] [Find Mex](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/find-mex-62916c25/) - [01-11-2023]
+
+#### Leetcode
+1. - [ ] [Longest Valid Paranthesis](https://leetcode.com/problems/longest-valid-parentheses/)
  
 ## Binary Tree Problems
 #### Coderbyte
