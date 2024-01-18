@@ -11,9 +11,10 @@ Data structures and Algorithms repo containing notes for each topic covered duri
 7. Loops
 
 ## Implementation
-### HackerRank
+#### HackerRank
 1. - [X] [Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses/problem?isFullScreen=true) - [23-11-2023]
 2. - [X] [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem) - [14-12-2023]]
+3. - [ ] [Matrics Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem?isFullScreen=true)
 
 ## String Problems
 #### LeetCode
@@ -29,6 +30,7 @@ Data structures and Algorithms repo containing notes for each topic covered duri
 #### Coderbyte
 1. - [X] [Bracket Matcher](https://coderbyte.com/editor/Bracket%20Matcher:JavaScript) - [30-11-2023]
 2. - [X] [Min Window Substring](https://coderbyte.com/editor/Min%20Window%20Substring:JavaScript) - [30-11-2023]
+#### HackerRank
 3. - [ ] [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem)
   
 
