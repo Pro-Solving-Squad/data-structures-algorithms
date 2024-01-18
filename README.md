@@ -24,16 +24,14 @@ Data structures and Algorithms repo containing notes for each topic covered duri
 #### HackerRank
 1. - [X] [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem) - [09-11-2023]
 #### Leetcode Problems
-2. - [ ] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+1. - [ ] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 
 ## Searching Problems
 #### Coderbyte
 1. - [X] [Bracket Matcher](https://coderbyte.com/editor/Bracket%20Matcher:JavaScript) - [30-11-2023]
 2. - [X] [Min Window Substring](https://coderbyte.com/editor/Min%20Window%20Substring:JavaScript) - [30-11-2023]
 #### HackerRank
-3. - [ ] [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem)
-  
-
+1. - [ ] [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem)
 #### HackerEarth
 1. - [x] [Employee Rating](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/employee-rating-8cd8dc10/) - [30-10-2023]
 1. - [x] [Maximum Border](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/maximum-border-9767e14c/) - [31-10-2023]
