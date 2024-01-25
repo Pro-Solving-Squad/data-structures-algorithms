@@ -1,0 +1,46 @@
+#Hackerland Radio Transmitters
+
+```
+   function hackerlandRadioTransmitters(x, k) {
+    // Write your code here
+
+    //Sort array and remove duplicates
+    const sortedArray = [... new Set(x)].sort((a, b) => a - b)
+
+    //[2, 4, 5, 6, 9, 12, 15]
+    //declare i
+    let i = 0
+    // variable to keep count of transmitters
+    let numOfTransmitters = 0
+
+    //while to loop through array
+    while (i < sortedArray.length) {
+        //inside the while loop
+        //declare a variable location = array[i] + k
+        let furthestLocation = sortedArray[i] + k //4
+
+        //while(currentLocation <= loc and is less than array length)
+        while (sortedArray[i] <= furthestLocation && i < sortedArray.length) {
+            // i += 1
+            i += 1
+        }
+
+        i -= 1
+        //transmitters += 1
+        numOfTransmitters += 1
+
+        //new furthest location = currentPosition + k
+        furthestLocation = sortedArray[i] + k
+
+        //while(currentLocation <= loc and is less than array length)
+
+        while (sortedArray[i] <= furthestLocation) {
+            // i += 1
+            i += 1
+        }
+    }
+
+    return numOfTransmitters
+}
+
+```
